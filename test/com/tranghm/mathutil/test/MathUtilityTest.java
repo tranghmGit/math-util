@@ -3,7 +3,7 @@ package com.tranghm.mathutil.test;
 import com.tranghm.mathutil.core.MathUtil;
 import org.junit.Assert;
 import org.junit.Test;
-import static org.junit.Assert.*;
+//import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
