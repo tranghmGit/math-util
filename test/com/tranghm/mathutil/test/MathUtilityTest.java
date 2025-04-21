@@ -20,7 +20,7 @@ public class MathUtilityTest {
             {2, 2}, 
             {3, 6}, 
             {4, 24}, 
-            {5, 720}
+            {5, 120}
         };
     }
     
